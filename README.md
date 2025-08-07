@@ -79,7 +79,7 @@ you can contribute with creating a fork and pull request or submit a patch via i
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
-Copyright (C) 2025 fauzymadani
+Copyright (C) 2025 <fauzymadani>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
